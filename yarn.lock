@@ -161,7 +161,7 @@ __metadata:
     marked: "npm:^14.1.2"
     messagebird: "npm:^4.0.1"
     node-fetch: "npm:2"
-    nodemailer: "npm:^6.9.15"
+    nodemailer: "npm:^10.0.10"
     openai: "npm:^4.59.0"
     prettier: "npm:^3.4.2"
     rimraf: "npm:^4.1.2"
@@ -9638,10 +9638,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:^6.9.15":
-  version: 6.9.15
-  resolution: "nodemailer@npm:6.9.15"
-  checksum: 10/16079406fe603f6e4debb8ac34bdb919688ad169ddf61e7b10e56abef85b537762eb3a19a15ce32bb9446d68e2f93a1ba4e24836ba86c7363fc42145aa36a291
+"nodemailer@npm:^10.0.10":
+  version: 10.0.10
+  resolution: "nodemailer@npm:10.0.10"
+  checksum: 10/3aeab7cd9aa087cb6280463a7c6b30dcffe2b901f7690cecc6d104196b1d31a2f25764f74a4bf84c05667fa75174a10462e2ec71f43a275aca96c95f45299bcf
   languageName: node
   linkType: hard
 
